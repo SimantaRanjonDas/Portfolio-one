@@ -1,0 +1,31 @@
+.back{
+    background-image: url(Pictures/img1.jpg);
+    background-size: cover;
+    min-height: 400px;
+}
+.pera{
+    background-color: rgba(0,0,0,0.5);
+    height: 400px;
+}
+.pera h1{
+    text-align: center;
+    padding-top: 140px;
+    color: aliceblue;
+}
+.pera p{
+    text-align: center;
+    color: aliceblue;
+}
+.contact1{
+    display: flex;
+    margin-left: 300px;
+}
+.send{
+    margin-left: 490px;
+}
+button{
+    padding: 10px;
+    border-radius: 15px;
+    color: aliceblue;
+    background-color: rgb(25, 25, 141);
+}
